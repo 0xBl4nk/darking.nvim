@@ -1,11 +1,11 @@
 ## Installation
 * Install Theme
 ```lua
-use "ArthurHydr/horizon-darkness.nvim"
+use "ArthurHydr/darking.nvim"
 ```
 * Use colorscheme
 ```lua
-vim.cmd[[colorscheme horizon-darkness]] 
+vim.cmd[[colorscheme darking]] 
 ```
 ## Demo
 
