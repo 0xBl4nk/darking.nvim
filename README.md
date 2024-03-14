@@ -1,9 +1,16 @@
 ## Installation
-* Install Theme
+* Lazy
 ```lua
-use "ArthurHydr/darking.nvim"
+{
+ 'ArthurHydr/darking.nvim'
+}
 ```
-* Use colorscheme
+* Packer
+```lua
+use 'ArthurHydr/darking.nvim'
+```
+
+## Usage
 ```lua
 vim.cmd[[colorscheme darking]] 
 ```
@@ -12,4 +19,4 @@ vim.cmd[[colorscheme darking]]
 ![1](https://i.imgur.com/7HRmbKZ.png) 
 
 ## Credit & References
-* Horizon.nvim
+* Horizon.nvim: https://github.com/akinsho/horizon.nvim
